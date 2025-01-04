@@ -6,6 +6,10 @@ body {
   background-color: #239ac2;
 }
 
+.song {
+  visibility: hidden;
+}
+
 .birthdayCard {
   position: relative;
   width: 250px;
